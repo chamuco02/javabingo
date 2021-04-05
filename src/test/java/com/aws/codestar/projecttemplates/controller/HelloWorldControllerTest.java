@@ -11,7 +11,7 @@ import static org.junit.jupiter.api.Assertions.assertEquals;
 /**
  * Tests for {@link HelloWorldController}. Modify the tests in order to support your use case as you build your project.
  */
-@DisplayName("Tests for HelloWorldController")
+@DisplayName("Tests for Controller 040521")
 public class HelloWorldControllerTest {
 
     private static final String EXPECTED_SITE_NAME = "home";
